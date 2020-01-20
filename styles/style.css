@@ -1,0 +1,36 @@
+html {
+	background-color: #360909;	
+	font-family: 'Sans-serif';
+}
+
+.top-nav {
+	overflow: hidden;
+}
+
+.top-nav a{
+	float: right;
+	color: #f2f2f2; 
+	text-align: center;
+	text-decoration: none;
+	padding: 15px 20px;
+	font-size: 18px;
+}
+
+.top-nav a:hover {
+	background-color: white;
+	color: #333;
+}
+
+h1 {
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 15px 20px;
+	margin: 13% auto;
+	font-size: 100px;
+	text-shadow: 4px 4px 1px black;
+}
+
+a.selected {
+	background-color: white;
+}

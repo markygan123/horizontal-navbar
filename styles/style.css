@@ -3,16 +3,19 @@ html {
 	font-family: 'Sans-serif';
 }
 
-.top-nav {
+.top-nav ul{
+	display: inline;
 	overflow: hidden;
+	list-style-type: none;
+	margin: 0 auto;
 }
 
-.top-nav a{
+.top-nav li a{
 	float: right;
 	color: #f2f2f2; 
 	text-align: center;
 	text-decoration: none;
-	padding: 15px 20px;
+	padding: 15px 23px;
 	font-size: 18px;
 }
 

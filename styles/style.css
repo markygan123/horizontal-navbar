@@ -5,11 +5,12 @@ html {
 
 .top-nav ul{
 	overflow: hidden;
+	width: 835px;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	background-color: black;
-	width: 835px;
+	margin-left: 520px;
 }
 
 .top-nav li {

@@ -41,7 +41,3 @@ h1 {
 	font-size: 100px;
 	text-shadow: 4px 4px 1px black;
 }
-
-a.selected {
-	background-color: white;
-}
